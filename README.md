@@ -1,2 +1,2 @@
-# cap2
-RFM analysis on AWS Saas Sales
+# capstone 2
+RFM analysis on AWS Saas Sales dataset
